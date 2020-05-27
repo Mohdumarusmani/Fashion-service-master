@@ -1,0 +1,1 @@
+export {ProductModel} from './_product.model';
